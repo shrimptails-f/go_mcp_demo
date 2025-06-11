@@ -31,11 +31,9 @@ claude_desktop_config.json
 ## 出力されたファイルをC:\mcpに配置する
 
 ## Cloude Desktopアプリを終了する
-1. Windowsのタスクバーの^を押下
-<br>
+1. Windowsのタスクバーの^を押下<br>
 ![alt text](img/image.png)
-2. Cloudeが表示されているので右クリックから囚虜を押下
-<br>
+2. Cloudeが表示されているので右クリックから終了を押下<br>
 ![alt text](img/taskkill.png)
 
 ## Cloude Desktopアプリを起動
